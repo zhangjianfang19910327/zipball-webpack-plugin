@@ -30,8 +30,8 @@ const Zip=require('zipball-webpack-plugin');
 ```
 
 ## options 
-*customPath: Name of your zip file,  default ->app-1.0.0.zip, type{stirng}
-*removeOutputFile:Whether to delete the output directory,default ->true, type{boolean}
+- customPath: Name of your zip file,  default ->app-1.0.0.zip, type{stirng}
+- removeOutputFile:Whether to delete the output directory,default ->true, type{boolean}
 
 ## license
 MIT
