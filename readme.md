@@ -1,6 +1,6 @@
 # Introduction
 
-A webpack plug-in for handling output directory compression files
+A webpack plugin for handling output directory compression files
 
 ## install
 With npm do:
