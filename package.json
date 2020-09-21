@@ -1,6 +1,6 @@
 {
   "name": "zipball-webpack-plugin",
-  "version": "0.0.1",
+  "version": "1.0.3",
   "description": "A webpack plug-in for handling output directory compression files",
   "main": "index.js",
   "directories": {
